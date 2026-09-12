@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yurez-mt24.github.io/snippets-9mu03z/sitemap.xml
